@@ -102,13 +102,13 @@ public double getChangeY() {
 }
 //precondition: x is a non-null number, and when increasing or decreasing the changeX don't change by a whole number. Use smaller decimals 
 //postcondition: sets the changeX of the ball equal to the inputed x
-public void setChangeX(double x) {
-	this.changeX= x;
+public void setChangeX(double newX) {
+	this.changeX= newX;
 }
 //precondition: y is a non-null number, and when increasing or decreasing the changey don't change by a whole number. Use smaller decimals 
 //postcondition: sets the changeY of the ball equal to the inputed y
-public void setChangey(double y) {
-	this.changeY=x;
+public void setChangeY(double newY) {
+	this.changeY=newY;
 }
   
 
