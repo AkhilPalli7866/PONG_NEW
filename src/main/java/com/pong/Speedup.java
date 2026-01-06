@@ -50,7 +50,7 @@ public class Speedup {
 					 if(x <= ball.getX() && ball.getX()<=rightX) {
 						 
 						 if(bottomY >= ball.getY() && ball.getY()>=y) {
-							 
+							
 							 return true;
 						 }
 				 }
