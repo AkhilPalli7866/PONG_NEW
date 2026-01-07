@@ -2,9 +2,6 @@
 //  Class author: Akhil Palli
 //  Date created:  1/4/2026
 //  General description: In this class the main logic of the game is executed.
-//
-
-
 package com.pong;
 import javax.swing.*;
 import java.awt.*;
